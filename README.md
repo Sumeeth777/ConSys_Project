@@ -26,7 +26,7 @@ The simulation runs for a predefined number of cycles (default is 10), and after
   - Low: 40%
 
 Each cycle generates a random temperature and humidity reading, controls the actuators based on the readings, and stores the data for later visualization.
-
+![image](images/Flowchart.jpg)
 
 # Graphs
 
@@ -41,8 +41,7 @@ Each cycle generates a random temperature and humidity reading, controls the act
 ### 3. Actuator Status
 - Stairs plot showing ON (1) and OFF (0) status for each actuator (Fan, Heater, Sprayer) during each cycle.
 
-  
-
+  ![image](images/Output.jpg)
 
 # Features
 
